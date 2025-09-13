@@ -20,7 +20,6 @@ I'm a **Master of Science in Biostatistics** student at George Mason University 
 ![Shiny](https://img.shields.io/badge/Shiny-00D4FF?style=flat&logo=rstudio&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 ## 🚀 Featured Projects
 
