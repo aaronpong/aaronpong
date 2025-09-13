@@ -29,13 +29,6 @@ Built an automated STR (Short-Term Rental) analytics system during my internship
 - **Dynamic column detection** algorithms for varying Excel formats
 - Interactive dashboards identifying seasonal optimization opportunities
 
-### 📊 Interactive Demographic Analytics Dashboard
-Built a comprehensive Shiny application analyzing U.S. Census data (2011-2023) featuring:
-- **Time series decomposition** and forecasting models
-- **Geographic visualization** with state and county-level choropleth maps
-- **LOESS regression** for capturing non-linear demographic trends
-- Advanced statistical analysis including ACF plots and growth rate modeling
-
 ### 🏥 Obesity Prediction Using Lifestyle Factors
 Developed a multinomial logistic regression model achieving **98% AUC** performance:
 - Analyzed relationships between eating habits, physical activity, and obesity levels
@@ -47,6 +40,13 @@ Currently researching optimal statistical methods for cancer prediction using mi
 - Comparing **zero-sum regression**, **ALR transformation**, and **LASSO** approaches
 - Working with high-dimensional compositional data challenges
 - Focus on model interpretability and clinical applicability
+
+### 📊 Interactive Demographic Analytics Dashboard
+Built a comprehensive Shiny application analyzing U.S. Census data (2011-2023) featuring:
+- **Time series decomposition** and forecasting models
+- **Geographic visualization** with state and county-level choropleth maps
+- **LOESS regression** for capturing non-linear demographic trends
+- Advanced statistical analysis including ACF plots and growth rate modeling
 
 ## 🎯 Research Interests
 - **Biostatistics & Epidemiology**: Applied statistical methods in health sciences
