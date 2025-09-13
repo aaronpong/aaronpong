@@ -1,7 +1,7 @@
 # Hi there, I'm Aaron Pongsugree! 👋
 
 ## 🎓 About Me
-I'm a Biostatistics Graduate with an **M.S. in Biostatistics** from George Mason University and a passion for transforming complex data into actionable insights. My background bridges biology and statistics, allowing me to tackle interdisciplinary challenges in healthcare, public policy, and business analytics.
+I'm a Biostatistics Graduate with an **M.S. in Biostatistics** and **B.S. in Biology** from George Mason University. My dual background in biological sciences and statistics gives me a unique perspective for transforming complex data into actionable insights, allowing me to tackle interdisciplinary challenges in healthcare, public policy, and business analytics.
 
 ## 🔬 What I Do
 - **Statistical Modeling**: Specialized in logistic regression, survival analysis, and predictive modeling for healthcare and demographic data
