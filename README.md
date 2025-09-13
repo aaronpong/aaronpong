@@ -12,9 +12,9 @@ I'm a **Master of Science in Biostatistics** student at George Mason University 
 ## 🛠️ Technical Toolkit
 **Programming & Analysis:**
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1F4788?style=flat&logo=sas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1F4788?style=flat&logo=sas&logoColor=white)
 
 **Visualization & Tools:**
 ![Shiny](https://img.shields.io/badge/Shiny-00D4FF?style=flat&logo=rstudio&logoColor=white)
