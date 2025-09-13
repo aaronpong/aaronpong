@@ -55,10 +55,6 @@ Currently researching optimal statistical methods for cancer prediction using mi
 - **Interactive Visualization**: Making complex analyses accessible through dynamic dashboards
 - **Predictive Modeling**: Developing robust models for healthcare and business applications
 
-## 📈 GitHub Stats
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronpong&show_icons=true&theme=vue-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronpong&layout=compact&theme=vue-dark)
-
 ## 🤝 Let's Connect!
 I'm always interested in collaborating on data science projects, especially those with real-world impact in healthcare, public policy, or business analytics.
 
