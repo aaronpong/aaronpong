@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there, I'm Aaron Pongsugree! 👋
 
-<!--
-**aaronpong/aaronpong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I'm a **Master of Science in Biostatistics** student at George Mason University (graduating May 2025) with a passion for transforming complex data into actionable insights. My background bridges biology and statistics, allowing me to tackle interdisciplinary challenges in healthcare, public policy, and business analytics.
 
-Here are some ideas to get you started:
+## 🔬 What I Do
+- **Statistical Modeling**: Specialized in logistic regression, survival analysis, and predictive modeling for healthcare and demographic data
+- **Data Visualization**: Building interactive dashboards and compelling visualizations that tell data-driven stories
+- **Biostatistics Research**: Developing robust analytical methods for microbiome data, obesity prediction, and epidemiological studies
+- **Business Analytics**: Creating automated pipelines for performance monitoring and strategic decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Toolkit
+**Programming & Analysis:**
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1F4788?style=flat&logo=sas&logoColor=white)
+
+**Visualization & Tools:**
+![Shiny](https://img.shields.io/badge/Shiny-00D4FF?style=flat&logo=rstudio&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 📈 Hotel Performance Analytics Pipeline
+Built an automated STR (Short-Term Rental) analytics system during my internship:
+- **Automated data processing** of multi-year weekly performance reports
+- **Dynamic column detection** algorithms for varying Excel formats
+- Interactive dashboards identifying seasonal optimization opportunities
+
+### 📊 Interactive Demographic Analytics Dashboard
+Built a comprehensive Shiny application analyzing U.S. Census data (2011-2023) featuring:
+- **Time series decomposition** and forecasting models
+- **Geographic visualization** with state and county-level choropleth maps
+- **LOESS regression** for capturing non-linear demographic trends
+- Advanced statistical analysis including ACF plots and growth rate modeling
+
+### 🏥 Obesity Prediction Using Lifestyle Factors
+Developed a multinomial logistic regression model achieving **98% AUC** performance:
+- Analyzed relationships between eating habits, physical activity, and obesity levels
+- Applied **LASSO variable selection** for optimal feature engineering
+- Delivered actionable insights for public health interventions
+
+### 🦠 Robust Microbiome Data Analysis
+Currently researching optimal statistical methods for cancer prediction using microbiome data:
+- Comparing **zero-sum regression**, **ALR transformation**, and **LASSO** approaches
+- Working with high-dimensional compositional data challenges
+- Focus on model interpretability and clinical applicability
+
+## 🎯 Research Interests
+- **Biostatistics & Epidemiology**: Applied statistical methods in health sciences
+- **Compositional Data Analysis**: Novel approaches for microbiome and genomic data
+- **Interactive Visualization**: Making complex analyses accessible through dynamic dashboards
+- **Predictive Modeling**: Developing robust models for healthcare and business applications
+
+## 📈 GitHub Stats
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronpong&show_icons=true&theme=vue-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronpong&layout=compact&theme=vue-dark)
+
+## 🤝 Let's Connect!
+I'm always interested in collaborating on data science projects, especially those with real-world impact in healthcare, public policy, or business analytics.
+
+📧 **Email**: [aaronpong21@gmail.com](mailto:aaronpong21@gmail.com)  
+📱 **Phone**: 571-420-5725  
+🎓 **Institution**: George Mason University
+
+---
