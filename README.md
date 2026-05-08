@@ -1,4 +1,4 @@
-# Hi there, I'm Aaron Pongsugree! 👋
+# Hi there, I'm Aaron Pongsugree! 
 
 ## 🎓 About Me
 I'm a Biostatistics Graduate with an **M.S. in Biostatistics** and **B.S. in Biology** from George Mason University. My dual background in biological sciences and statistics gives me a unique perspective for transforming complex data into actionable insights, allowing me to tackle interdisciplinary challenges in healthcare, public policy, and business analytics.
@@ -9,7 +9,7 @@ I'm a Biostatistics Graduate with an **M.S. in Biostatistics** and **B.S. in Bio
 - **Biostatistics Research**: Developing robust analytical methods for microbiome data, obesity prediction, and epidemiological studies
 - **Business Analytics**: Creating automated pipelines for performance monitoring and strategic decision-making
 
-## 🛠️ Technical Toolkit
+##  Technical Toolkit
 **Programming & Analysis:**
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1F4788?style=flat&logo=sas&logoColor=white)
@@ -21,40 +21,40 @@ I'm a Biostatistics Graduate with an **M.S. in Biostatistics** and **B.S. in Bio
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📈 Hotel Performance Analytics Pipeline
+###  Hotel Performance Analytics Pipeline
 Built an automated STR (Short-Term Rental) analytics system during my internship:
 - **Automated data processing** of multi-year weekly performance reports
 - **Dynamic column detection** algorithms for varying Excel formats
 - Interactive dashboards identifying seasonal optimization opportunities
 
-### 🏥 Obesity Prediction Using Lifestyle Factors
+###  Obesity Prediction Using Lifestyle Factors
 Developed a multinomial logistic regression model achieving **98% AUC** performance:
 - Analyzed relationships between eating habits, physical activity, and obesity levels
 - Applied **LASSO variable selection** for optimal feature engineering
 - Delivered actionable insights for public health interventions
 
-### 🦠 Robust Microbiome Data Analysis
+###  Robust Microbiome Data Analysis
 Currently researching optimal statistical methods for cancer prediction using microbiome data:
 - Comparing **zero-sum regression**, **ALR transformation**, and **LASSO** approaches
 - Working with high-dimensional compositional data challenges
 - Focus on model interpretability and clinical applicability
 
-### 📊 Interactive Demographic Analytics Dashboard
+###  Interactive Demographic Analytics Dashboard
 Built a comprehensive Shiny application analyzing U.S. Census data (2011-2023) featuring:
 - **Time series decomposition** and forecasting models
 - **Geographic visualization** with state and county-level choropleth maps
 - **LOESS regression** for capturing non-linear demographic trends
 - Advanced statistical analysis including ACF plots and growth rate modeling
 
-## 🎯 Research Interests
+##  Research Interests
 - **Biostatistics & Epidemiology**: Applied statistical methods in health sciences
 - **Compositional Data Analysis**: Novel approaches for microbiome and genomic data
 - **Interactive Visualization**: Making complex analyses accessible through dynamic dashboards
 - **Predictive Modeling**: Developing robust models for healthcare and business applications
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 I'm always interested in collaborating on data science projects, especially those with real-world impact in healthcare, public policy, or business analytics.
 
 📧 **Email**: [aaronpong21@gmail.com](mailto:aaronpong21@gmail.com)  
