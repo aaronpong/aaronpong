@@ -3,7 +3,7 @@
 ## 🎓 About Me
 I'm a Biostatistics Graduate with an **M.S. in Biostatistics** and **B.S. in Biology** from George Mason University. My dual background in biological sciences and statistics gives me a unique perspective for transforming complex data into actionable insights, allowing me to tackle interdisciplinary challenges in healthcare, public policy, and business analytics.
 
-## 🔬 What I Do
+##  What I Do
 - **Statistical Modeling**: Specialized in logistic regression, survival analysis, and predictive modeling for healthcare and demographic data
 - **Data Visualization**: Building interactive dashboards and compelling visualizations that tell data-driven stories
 - **Biostatistics Research**: Developing robust analytical methods for microbiome data, obesity prediction, and epidemiological studies
